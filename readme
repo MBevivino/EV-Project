@@ -19,3 +19,7 @@ The project employs a mixed-methods approach:
 - **Economic Data**: Stock prices from Yahoo Finance; economic indicators from FRED.
 - **EV Adoption Data**: Publicly available datasets from the Department of Energy.
 - **Geographic and Demographic Data**: Census data and ACS surveys.
+
+I will be updating this repository throughout the course of the project to include python scripts used for analysis, visualization, and data collection/manipulation.
+
+Currently I have scripts related to the creation of the EV Industry Demand Index and related to fetching of US Census Data using the Census API. 
