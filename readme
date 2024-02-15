@@ -1,0 +1,21 @@
+# Analysis of EV Adoption Influences
+
+## Project Overview
+This project explores how media sentiment and economic factors influence electric vehicle (EV) adoption rates in the United States, with a special emphasis on geographic and economic equity. Through a combination of quantitative sentiment analysis and qualitative content analysis, alongside economic data integration, this research aims to uncover patterns and insights that could inform strategies to promote equitable EV adoption.
+
+## Objectives
+- To quantify media sentiment towards EVs and examine its correlation with EV adoption rates.
+- To assess the impact of economic factors, such as EV manufacturer stock performance and fuel prices, on EV adoption.
+- To explore geographic and economic disparities in EV adoption, identifying areas where policy interventions could enhance equity.
+
+## Methodology
+The project employs a mixed-methods approach:
+- **Quantitative Analysis**: Sentiment analysis on media articles using NLP techniques, correlation analysis between economic indicators and EV adoption rates.
+- **Qualitative Analysis**: Manual content analysis of media articles to understand framing and narrative themes.
+- **Data Sources**: Includes news APIs (e.g., GDELT, NewsAPI), economic data from Yahoo Finance and FRED, EV adoption statistics from the Department of Energy, and demographic data from the U.S. Census Bureau.
+
+## Data Sources
+- **Media Coverage Data**: Collected from various news APIs.
+- **Economic Data**: Stock prices from Yahoo Finance; economic indicators from FRED.
+- **EV Adoption Data**: Publicly available datasets from the Department of Energy.
+- **Geographic and Demographic Data**: Census data and ACS surveys.
